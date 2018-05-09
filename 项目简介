@@ -2,6 +2,7 @@
     1.为番茄先生供应链项目组UI自动化测试项目。
     2.略……
     3.注：unittest.defaultTestLoader.discover()递归查找用例时是递归包中的.py文件，必须有“__init__.py”文件才是包。
+    4.利用github托管。
 
 
 
