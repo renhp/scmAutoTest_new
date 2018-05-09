@@ -10,3 +10,4 @@ driver.find_element_by_id('password').send_keys(12345678)
 sleep(1)
 driver.find_element_by_xpath('//*[@id="root"]/div/form/button').click()
 
+print('test')
