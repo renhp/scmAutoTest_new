@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a181eeb-c4a6-41d1-acee-100674089cda" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app_performance_test/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app_performance_test/test_app_CPU.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app_performance_test/test_app_memory.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app_performance_test/test_app_power.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app_performance_test/test_app_start.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app_performance_test/test_app_traffic.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/interface_test/testget.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/interface_test/aa.py" afterPath="$PROJECT_DIR$/interface_test/API测试.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,56 +18,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="test_app_memory.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_memory.py">
+      <file leaf-file-name="testget.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/interface_test/testget.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="362">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+            <state relative-caret-position="146">
+              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
-                <element signature="e#22#32#0" expanded="true" />
-                <element signature="e#122#159#0" expanded="false" />
-                <element signature="e#1025#1197#0" expanded="false" />
-                <element signature="e#1215#1300#0" expanded="false" />
+                <element signature="e#12#23#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="builtins.py" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1132131784/builtins.py">
+      <file leaf-file-name="API测试.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/interface_test/API测试.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="4846" column="8" lean-forward="true" selection-start-line="4846" selection-start-column="8" selection-end-line="4846" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="memory.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app_performance_test/memory.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="meminfo" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app_performance_test/meminfo">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="539" column="53" lean-forward="true" selection-start-line="539" selection-start-column="53" selection-end-line="539" selection-end-column="53" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="test_app_start.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_start.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2575">
-              <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+            <state relative-caret-position="225">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -130,8 +93,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scmTest/test_case/case/start_scm_login2.py" />
-        <option value="$PROJECT_DIR$/venv/Lib/site-packages/__init__.py" />
         <option value="$PROJECT_DIR$/utils/readfiles.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/case/scm_warehouse_manage/__init__.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/public/page/elementaction.py" />
@@ -181,14 +142,16 @@
         <option value="$PROJECT_DIR$/app_performance_test/test_app_traffic.py" />
         <option value="$PROJECT_DIR$/app_performance_test/test_app_power.py" />
         <option value="$PROJECT_DIR$/app_performance_test/test_app_memory.py" />
+        <option value="$PROJECT_DIR$/interface_test/API测试.py" />
+        <option value="$PROJECT_DIR$/interface_test/testget.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="292" />
+    <option name="y" value="87" />
     <option name="width" value="907" />
-    <option name="height" value="480" />
+    <option name="height" value="497" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -258,20 +221,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_app_memory">
-    <configuration name="test_app_CPU" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in testget.py">
+    <configuration name="API测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app_performance_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="scmAutoTest" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_performance_test/test_app_CPU.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_test/API测试.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,24 +276,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test_app_qidong_guanbi" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app_performance_test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="scmAutoTest" />
-      <option name="SCRIPT_NAME" value="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\app_performance_test\test_app_start.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="test_app_traffic" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -349,20 +294,34 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="Unittests in testget.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="scmAutoTest" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/interface_test/testget.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test_app_qidong_guanbi" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_app_CPU" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test_app_traffic" />
-      <item index="3" class="java.lang.String" itemvalue="Python.test_app_power" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test_app_memory" />
+      <item index="0" class="java.lang.String" itemvalue="Python.test_app_traffic" />
+      <item index="1" class="java.lang.String" itemvalue="Python.test_app_power" />
+      <item index="2" class="java.lang.String" itemvalue="Python.test_app_memory" />
+      <item index="3" class="java.lang.String" itemvalue="Python.API测试" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in testget.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.test_app_memory" />
-        <item index="1" class="java.lang.String" itemvalue="Python.test_app_power" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_app_traffic" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_app_CPU" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_app_qidong_guanbi" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in testget.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python.API测试" />
+        <item index="2" class="java.lang.String" itemvalue="Python.test_app_memory" />
+        <item index="3" class="java.lang.String" itemvalue="Python.test_app_power" />
+        <item index="4" class="java.lang.String" itemvalue="Python.test_app_traffic" />
       </list>
     </recent_temporary>
   </component>
@@ -383,18 +342,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_start_scm_purchasemanage_PurchaseManage_test_B_SalesReturnManageSee - 2018.04.25 at 10h 24m 58s.xml">
-      <configuration name="Unittests for start_scm_purchasemanage.PurchaseManage.test_B_SalesReturnManageSee" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_scm_stockmanage_StockManage_test_1E_categoryRule - 2018.04.26 at 16h 59m 01s.xml">
-      <configuration name="Unittests for start_scm_stockmanage.StockManage.test_1E_categoryRule" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_scm_supplychainmanage_SupplyChainManage_test_B_locationManageEdit - 2018.04.24 at 18h 21m 31s.xml">
-      <configuration name="Unittests for start_scm_supplychainmanage.SupplyChainManage.test_B_locationManageEdit" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_start_scm_supplychainmanage_SupplyChainManage_test_C_locationManageNewAddress - 2018.04.24 at 18h 22m 26s.xml">
-      <configuration name="Unittests for start_scm_supplychainmanage.SupplyChainManage.test_C_locationManageNewAddress" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_start_scm_replenishManage_py - 2018.04.10 at 17h 44m 38s.xml">
       <configuration name="Unittests in start_scm_replenishManage.py" configurationId="tests" />
     </history-entry>
@@ -413,6 +360,18 @@
     <history-entry file="Unittests_in_test_zhenji_py - 2018.05.05 at 15h 56m 29s.xml">
       <configuration name="Unittests in test_zhenji.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_testget_py - 2018.05.13 at 22h 11m 36s.xml">
+      <configuration name="Unittests in testget.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testget_py - 2018.05.13 at 22h 13m 49s.xml">
+      <configuration name="Unittests in testget.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testget_py - 2018.05.13 at 22h 14m 27s.xml">
+      <configuration name="Unittests in testget.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testget_py - 2018.05.13 at 22h 16m 18s.xml">
+      <configuration name="Unittests in testget.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -424,15 +383,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="292" y="87" width="907" height="497" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21973094" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5272306" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3010949" sideWeight="0.50597906" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.80474454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66361976" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36197442" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -445,25 +403,6 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3010949" sideWeight="0.50597906" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.80474454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.66431093" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34067208" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5291971" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -475,20 +414,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scmTest/test_case/public/findelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="575">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/common/desired_capabilities.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="67" column="4" lean-forward="false" selection-start-line="67" selection-start-column="4" selection-end-line="67" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="254">
@@ -507,13 +432,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/download_soft/Python_install/Python/Python35/Lib/unittest/case.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-584">
-          <caret line="778" column="8" lean-forward="false" selection-start-line="778" selection-start-column="8" selection-end-line="778" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -574,13 +492,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/request/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -664,20 +575,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="128" column="34" lean-forward="false" selection-start-line="128" selection-start-column="10" selection-end-line="128" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test/aa.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-264">
-          <caret line="67" column="0" lean-forward="true" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/appium_test/元素定位.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -690,13 +587,6 @@
         <state relative-caret-position="298">
           <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appium_test/appium_API_之应用操作.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -757,26 +647,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_traffic.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
-          <folding>
-            <element signature="e#46#55#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_power.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
-          <folding>
-            <element signature="e#31#41#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app_performance_test/power.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-600">
@@ -803,18 +673,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1132131784/builtins.py">
+    <entry file="file://$PROJECT_DIR$/app_performance_test/memory.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="4846" column="8" lean-forward="true" selection-start-line="4846" selection-start-column="8" selection-end-line="4846" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_start.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2575">
-          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+        <state relative-caret-position="741">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -827,9 +689,25 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2575">
+          <caret line="105" column="0" lean-forward="true" selection-start-line="105" selection-start-column="0" selection-end-line="105" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appium_test/appium_API_之应用操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2925">
+          <caret line="117" column="0" lean-forward="false" selection-start-line="117" selection-start-column="0" selection-end-line="117" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_memory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
+        <state relative-caret-position="1175">
           <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding>
             <element signature="e#22#32#0" expanded="true" />
@@ -840,11 +718,77 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app_performance_test/memory.csv">
+    <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_power.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+        <state relative-caret-position="1575">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app_performance_test/test_app_traffic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="23" lean-forward="false" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.3/system/python_stubs/1132131784/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="2861" column="0" lean-forward="true" selection-start-line="2861" selection-start-column="0" selection-end-line="2861" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test/API测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/download_soft/Python_install/Python/Python35/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="669" column="8" lean-forward="false" selection-start-line="669" selection-start-column="8" selection-end-line="669" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/api.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/requests/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/download_soft/Python_install/Python/Python35/Lib/http/client.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="106">
+          <caret line="1054" column="0" lean-forward="false" selection-start-line="1054" selection-start-column="0" selection-end-line="1054" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test/testget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="146">
+          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#12#23#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

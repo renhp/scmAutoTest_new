@@ -66,7 +66,7 @@ print("==普通:  ", r.text)
 print(r.status_code)                        # 获取
 
 
-#
+# 其他请求方式
 print("="*200)
 r = requests.delete(url, headers=headers)
 print(r.text)
