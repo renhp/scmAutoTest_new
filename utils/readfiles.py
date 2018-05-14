@@ -6,7 +6,7 @@ from xlrd import open_workbook
 
 
 # 读取Excel表格文件测试数据【注意表中的数字需要处理，不然获得数字字符时会有小数点】
-class ExcelReader:
+class ExcelReader():
     """
         读取excel文件中的内容。返回list。
         如：

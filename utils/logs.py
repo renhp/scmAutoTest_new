@@ -4,7 +4,15 @@ from utils.configs import Configs
 
 
 
-class Logs:
+class Logs(object):
+    """只能创建为单例"""
+    __instance = None  # 私有的类属性(instance:实例)
+    def __new__(cls):
+        if cls.__instance is None:
+            cls.__instance = object.__new__(cls)
+            return cls.__instance
+        else:
+            return cls.__instance  # 返回上一次创建对象的引用
 
     logger = None
     # 日志级别

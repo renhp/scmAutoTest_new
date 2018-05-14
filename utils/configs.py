@@ -15,6 +15,15 @@ TEST_CASW_PATH = os.path.join(BASE_PATH, 'scmTest', 'test_case', 'case')        
 
 # 配置文件操作类，获取配置文件中的信息及某些文件夹目录
 class Configs:
+    """只能创建为单例"""
+    __instance = None  # 私有的类属性(instance:实例)
+    def __new__(cls):
+        if cls.__instance is None:
+            cls.__instance = object.__new__(cls)
+            return cls.__instance
+        else:
+            return cls.__instance  # 返回上一次创建对象的引用
+
     def __init__(self):
         # 读取配置文件
         self.conf = configparser.ConfigParser()
