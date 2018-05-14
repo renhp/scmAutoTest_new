@@ -2,9 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a181eeb-c4a6-41d1-acee-100674089cda" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/interface_test/testget.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scmTest/test_case/case/start_scm_new_structure.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/scmTest/test_case/case/test_case.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/interface_test/aa.py" afterPath="$PROJECT_DIR$/interface_test/API测试.py" />
+      <change beforePath="$PROJECT_DIR$/config/config.ini" afterPath="$PROJECT_DIR$/config/config.ini" />
+      <change beforePath="$PROJECT_DIR$/data/pro_data/public_data/cookie.txt" afterPath="$PROJECT_DIR$/data/pro_data/public_data/cookie.txt" />
+      <change beforePath="$PROJECT_DIR$/log/test_log/scm_test.log" afterPath="$PROJECT_DIR$/log/test_log/scm_test.log" />
+      <change beforePath="$PROJECT_DIR$/venv/pip-selfcheck.json" afterPath="$PROJECT_DIR$/venv/pip-selfcheck.json" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,30 +21,7 @@
     <favorites_list name="scmAutoTest_new" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="testget.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/interface_test/testget.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="146">
-              <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-              <folding>
-                <element signature="e#12#23#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="API测试.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/interface_test/API测试.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -56,7 +37,6 @@
       <find>filepath</find>
       <find>baseinfor</find>
       <find>path</find>
-      <find>close</find>
       <find>funcName</find>
       <find>log_file</find>
       <find>log_max_byte</find>
@@ -82,6 +62,7 @@
       <find>get</find>
       <find>1979780</find>
       <find>1320</find>
+      <find>close</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\utils</dir>
@@ -93,10 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/utils/readfiles.py" />
-        <option value="$PROJECT_DIR$/scmTest/test_case/case/scm_warehouse_manage/__init__.py" />
-        <option value="$PROJECT_DIR$/scmTest/test_case/public/page/elementaction.py" />
-        <option value="$PROJECT_DIR$/scmTest/test_case/public/await_ele.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/public/joinscm.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/public/jumplogin.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/public/page/scm_warehouse_manage/allotmanage_page.py" />
@@ -122,7 +99,6 @@
         <option value="$PROJECT_DIR$/scmTest/test_case/case/scm_warehousemanage/__init__.py" />
         <option value="$PROJECT_DIR$/项目简介" />
         <option value="$PROJECT_DIR$/scmTest/test_case/public/page/supplychainmanage_page.py" />
-        <option value="$PROJECT_DIR$/scmTest/test_case/case/start_scm_stockmanage.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/case/start_scm_supplychainmanage.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/public/page/PurchaseManage_page.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/case/start_scm_purchasemanage.py" />
@@ -135,7 +111,6 @@
         <option value="$PROJECT_DIR$/appium_test/appium_API_之应用操作.py" />
         <option value="$PROJECT_DIR$/utils/read_json.py" />
         <option value="$PROJECT_DIR$/interface_test/aa.py" />
-        <option value="$PROJECT_DIR$/config/config.ini" />
         <option value="$PROJECT_DIR$/bb.py" />
         <option value="$PROJECT_DIR$/app_performance_test/test_app_qidong_guanbi.py" />
         <option value="$PROJECT_DIR$/app_performance_test/test_app_CPU.py" />
@@ -144,12 +119,18 @@
         <option value="$PROJECT_DIR$/app_performance_test/test_app_memory.py" />
         <option value="$PROJECT_DIR$/interface_test/API测试.py" />
         <option value="$PROJECT_DIR$/interface_test/testget.py" />
+        <option value="$PROJECT_DIR$/scmTest/test_case/case/start_scm_stockmanage.py" />
+        <option value="$PROJECT_DIR$/scmTest/test_case/case/aa.py" />
+        <option value="$PROJECT_DIR$/config/config.ini" />
+        <option value="$PROJECT_DIR$/data/pro_data/public_data/cookie.txt" />
+        <option value="$PROJECT_DIR$/scmTest/test_case/case/test_case.py" />
+        <option value="$PROJECT_DIR$/scmTest/test_case/case/start_scm_new_structure.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="292" />
-    <option name="y" value="87" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="351" />
+    <option name="y" value="28" />
     <option name="width" value="907" />
     <option name="height" value="497" />
   </component>
@@ -170,6 +151,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -180,13 +162,67 @@
             <path>
               <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
               <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
-              <item name="app_performance_test" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="pro_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="pro_data" type="462c0819:PsiDirectoryNode" />
+              <item name="public_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
+              <item name="pro_log" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="scmTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="scmTest" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="scmTest" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
+              <item name="scmTest" type="462c0819:PsiDirectoryNode" />
+              <item name="test_case" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="start_scm_new_structure.py" type="8704e2dd:PyFileNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -194,19 +230,19 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../练习" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\scmTest\test_case\case" />
+      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\utils" />
+      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\scmTest\test_case\case\scm_warehousemanage" />
+      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\scmTest\test_case\case\scm_warehouse_manage" />
+      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\scmTest\test_case" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\appium" />
       <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\report\test_report\report_file" />
       <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\report\test_report\screenshot" />
       <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\report\test_report" />
       <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\utils" />
-      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\scmTest\test_case\case" />
-      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\scmTest\test_case\case\scm_warehousemanage" />
-      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\scmTest\test_case\case\scm_warehouse_manage" />
-      <recent name="C:\Users\xiaoqie\PycharmProjects\scmAutoTest_new\scmTest\test_case" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -221,78 +257,66 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in testget.py">
-    <configuration name="API测试" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python tests.Unittests in start_scm_new_structure.py">
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/interface_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scmTest/test_case/case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="scmAutoTest" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/interface_test/API测试.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scmTest/test_case/case/aa.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="test_app_memory" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests for test_case.Test2.test_case2" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app_performance_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scmTest/test_case/case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="scmAutoTest" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_performance_test/test_app_memory.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_case.Test2.test_case2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
     </configuration>
-    <configuration name="test_app_power" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in start_scm_new_structure.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app_performance_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scmTest/test_case/case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="scmAutoTest" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_performance_test/test_app_power.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/scmTest/test_case/case/start_scm_new_structure.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
-    <configuration name="test_app_traffic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Unittests in test_case.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/app_performance_test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scmTest/test_case/case" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="scmAutoTest" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app_performance_test/test_app_traffic.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/scmTest/test_case/case/test_case.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <configuration name="Unittests in testget.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -309,19 +333,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.test_app_traffic" />
-      <item index="1" class="java.lang.String" itemvalue="Python.test_app_power" />
-      <item index="2" class="java.lang.String" itemvalue="Python.test_app_memory" />
-      <item index="3" class="java.lang.String" itemvalue="Python.API测试" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in testget.py" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in testget.py" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_case.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests for test_case.Test2.test_case2" />
+      <item index="3" class="java.lang.String" itemvalue="Python.aa" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in start_scm_new_structure.py" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in testget.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.API测试" />
-        <item index="2" class="java.lang.String" itemvalue="Python.test_app_memory" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_app_power" />
-        <item index="4" class="java.lang.String" itemvalue="Python.test_app_traffic" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in start_scm_new_structure.py" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in test_case.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.aa" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests for test_case.Test2.test_case2" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in testget.py" />
       </list>
     </recent_temporary>
   </component>
@@ -342,35 +366,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_start_scm_replenishManage_py - 2018.04.10 at 17h 44m 38s.xml">
-      <configuration name="Unittests in start_scm_replenishManage.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 15h 35m 39s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_start_scm_replenishManage_py - 2018.04.10 at 17h 46m 07s.xml">
-      <configuration name="Unittests in start_scm_replenishManage.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 15h 36m 17s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_start_scm_replenishManage_py - 2018.04.18 at 17h 19m 55s.xml">
-      <configuration name="Unittests in start_scm_replenishManage.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 15h 40m 40s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_zhenji_py - 2018.05.05 at 15h 55m 04s.xml">
-      <configuration name="Unittests in test_zhenji.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 15h 41m 20s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_zhenji_py - 2018.05.05 at 15h 56m 20s.xml">
-      <configuration name="Unittests in test_zhenji.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 15h 43m 27s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_test_zhenji_py - 2018.05.05 at 15h 56m 29s.xml">
-      <configuration name="Unittests in test_zhenji.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 15h 48m 13s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testget_py - 2018.05.13 at 22h 11m 36s.xml">
-      <configuration name="Unittests in testget.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 15h 55m 38s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testget_py - 2018.05.13 at 22h 13m 49s.xml">
-      <configuration name="Unittests in testget.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 16h 08m 59s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testget_py - 2018.05.13 at 22h 14m 27s.xml">
-      <configuration name="Unittests in testget.py" configurationId="tests" />
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 16h 09m 58s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Unittests_in_testget_py - 2018.05.13 at 22h 16m 18s.xml">
-      <configuration name="Unittests in testget.py" configurationId="tests" />
+    <history-entry file="Unittests_in_test_case_py - 2018.05.14 at 15h 54m 32s.xml">
+      <configuration name="Unittests in test_case.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -383,14 +407,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="292" y="87" width="907" height="497" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5272306" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3400598" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3010949" sideWeight="0.50597906" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.80474454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36197442" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54844606" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -403,6 +427,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3010949" sideWeight="0.50597906" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.80474454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.54844606" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3400598" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5291971" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -414,83 +457,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appium_test/打开不同APP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appium_test/bb.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appium_test/dd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/appium/webdriver/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="43">
-          <caret line="51" column="8" lean-forward="false" selection-start-line="51" selection-start-column="8" selection-end-line="51" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webelement.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="99" column="0" lean-forward="true" selection-start-line="99" selection-start-column="0" selection-end-line="99" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appium_test/test_zhenji.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="95" column="0" lean-forward="false" selection-start-line="95" selection-start-column="0" selection-end-line="95" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scmTest/test_case/public/joinscm.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="369">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/appium_test/HybridApp/test_HunHeAPP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="753">
-          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scmTest/test_case/case/scm_template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="41" column="25" lean-forward="false" selection-start-line="41" selection-start-column="25" selection-end-line="41" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="606" column="8" lean-forward="false" selection-start-line="606" selection-start-column="8" selection-end-line="606" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/request/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -509,13 +475,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
           <caret line="481" column="19" lean-forward="false" selection-start-line="481" selection-start-column="19" selection-end-line="481" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/utils/configs.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2013">
-          <caret line="19" column="40" lean-forward="false" selection-start-line="19" selection-start-column="40" selection-end-line="19" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -568,13 +527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/utils/readfiles.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="37" column="0" lean-forward="true" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/appium_test/元素定位.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="215">
@@ -587,13 +539,6 @@
         <state relative-caret-position="298">
           <caret line="80" column="0" lean-forward="false" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/config.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -651,7 +596,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-600">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -659,7 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="1537" column="8" lean-forward="false" selection-start-line="1537" selection-start-column="8" selection-end-line="1537" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -677,7 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="741">
           <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -685,7 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="211">
           <caret line="539" column="53" lean-forward="true" selection-start-line="539" selection-start-column="53" selection-end-line="539" selection-end-column="53" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -710,7 +651,7 @@
         <state relative-caret-position="1175">
           <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
           <folding>
-            <element signature="e#22#32#0" expanded="true" />
+            <element signature="e#22#32#0" expanded="false" />
             <element signature="e#122#159#0" expanded="false" />
             <element signature="e#1025#1197#0" expanded="false" />
             <element signature="e#1215#1300#0" expanded="false" />
@@ -744,8 +685,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/interface_test/API测试.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -762,7 +703,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="89">
           <caret line="60" column="4" lean-forward="false" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -770,7 +710,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -778,17 +717,135 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="106">
           <caret line="1054" column="0" lean-forward="false" selection-start-line="1054" selection-start-column="0" selection-end-line="1054" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/interface_test/testget.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="146">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        <state relative-caret-position="25">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="e#12#23#0" expanded="true" />
+            <element signature="e#12#23#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/phantomjs/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="68" column="8" lean-forward="false" selection-start-line="68" selection-start-column="8" selection-end-line="68" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="32" column="8" lean-forward="false" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="679" column="0" lean-forward="true" selection-start-line="679" selection-start-column="0" selection-end-line="679" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scmTest/test_case/case/start_scm_purchasemanage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scmTest/test_case/case/aa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/logs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="26" column="8" lean-forward="false" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/pro_data/public_data/cookie.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="49" lean-forward="false" selection-start-line="0" selection-start-column="49" selection-end-line="0" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scmTest/test_case/case/test_case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1069">
+          <caret line="79" column="0" lean-forward="true" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+          <folding>
+            <element signature="e#66#77#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/readfiles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scmTest/test_case/case/start_scm_stockmanage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="35" column="10" lean-forward="true" selection-start-line="35" selection-start-column="10" selection-end-line="35" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/utils/configs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scmTest/test_case/case/start_scm_new_structure.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2881">
+          <caret line="158" column="0" lean-forward="true" selection-start-line="158" selection-start-column="0" selection-end-line="158" selection-end-column="0" />
+          <folding>
+            <element signature="e#68#83#0" expanded="true" />
+            <element signature="e#1345#1427#0" expanded="false" />
+            <element signature="e#2558#2580#0" expanded="false" />
+            <element signature="e#4979#5001#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log/pro_log/scm_test.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6862">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

@@ -11540,3 +11540,9 @@
 2018-05-09 10:19:58,372-【scm测试日志 :--INFO :--准备测试报告 :--all_tests_scm.py:48
 2018-05-09 10:19:58,374-【scm测试日志 :--INFO :--测试报告文件已准备好，等待写入内容 :--all_tests_scm.py:61
 2018-05-09 10:19:58,374-【scm测试日志 :--INFO :--开始执行测试用例 :--all_tests_scm.py:68
+2018-05-14 15:14:12,955-【scm测试日志 :--INFO :--初始化采购管理完成 :--start_scm_new_structure.py:40
+2018-05-14 15:14:12,966-【scm测试日志 :--INFO :--测试订单管理_查询 :--start_scm_new_structure.py:52
+2018-05-14 15:14:27,149-【scm测试日志 :--INFO :--清理采购管理完成 :--start_scm_new_structure.py:45
+2018-05-14 15:14:27,169-【scm测试日志 :--INFO :--初始化采购管理完成 :--start_scm_new_structure.py:40
+2018-05-14 15:14:27,169-【scm测试日志 :--INFO :--测试退货管理_查询 :--start_scm_new_structure.py:102
+2018-05-14 15:14:33,465-【scm测试日志 :--INFO :--清理采购管理完成 :--start_scm_new_structure.py:45
