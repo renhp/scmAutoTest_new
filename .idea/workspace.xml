@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a181eeb-c4a6-41d1-acee-100674089cda" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/练习/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/练习/new方法.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/练习/单例.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/练习/给程序传参数.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/log/pro_log/scm_test.log" afterPath="$PROJECT_DIR$/log/pro_log/scm_test.log" />
-      <change beforePath="$PROJECT_DIR$/utils/configs.py" afterPath="$PROJECT_DIR$/utils/configs.py" />
-      <change beforePath="$PROJECT_DIR$/utils/logs.py" afterPath="$PROJECT_DIR$/utils/logs.py" />
-      <change beforePath="$PROJECT_DIR$/utils/readfiles.py" afterPath="$PROJECT_DIR$/utils/readfiles.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -75,7 +69,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/scmTest/test_case/case/scm_warehouse_manage/start_breakagemanage.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/case/scm_warehouse_manage/start_scm_breakagemanage.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/public/page/scm_warehouse_manage/breakagemanage_page.py" />
         <option value="$PROJECT_DIR$/scmTest/test_case/public/page/joinmodule.py" />
@@ -126,13 +119,15 @@
         <option value="$PROJECT_DIR$/utils/logs.py" />
         <option value="$PROJECT_DIR$/utils/readfiles.py" />
         <option value="$PROJECT_DIR$/练习/单例.py" />
+        <option value="$PROJECT_DIR$/练习/给程序传参数.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="245" />
+    <option name="x" value="445" />
+    <option name="y" value="105" />
     <option name="width" value="907" />
-    <option name="height" value="735" />
+    <option name="height" value="462" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -160,20 +155,7 @@
             <path>
               <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
               <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
-              <item name="scmTest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
-              <item name="scmTest" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="scmAutoTest_new" type="b2602c69:ProjectViewProjectNode" />
-              <item name="scmAutoTest_new" type="462c0819:PsiDirectoryNode" />
-              <item name="scmTest" type="462c0819:PsiDirectoryNode" />
-              <item name="test_case" type="462c0819:PsiDirectoryNode" />
-              <item name="case" type="462c0819:PsiDirectoryNode" />
+              <item name="练习" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -215,7 +197,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in start_scm_new_structure.py">
+  <component name="RunManager" selected="Python.给程序传参数">
     <configuration name="单例" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,19 +216,19 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="给程序传参数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/scmTest/test_case/case" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/练习" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="scmAutoTest" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/scmTest/test_case/case/aa.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/练习/给程序传参数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -300,18 +282,18 @@
     </configuration>
     <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in test_case.py" />
-      <item index="1" class="java.lang.String" itemvalue="Python.aa" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in start_scm_new_structure.py" />
-      <item index="3" class="java.lang.String" itemvalue="Python.new方法" />
-      <item index="4" class="java.lang.String" itemvalue="Python.单例" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in start_scm_new_structure.py" />
+      <item index="2" class="java.lang.String" itemvalue="Python.new方法" />
+      <item index="3" class="java.lang.String" itemvalue="Python.单例" />
+      <item index="4" class="java.lang.String" itemvalue="Python.给程序传参数" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in start_scm_new_structure.py" />
-        <item index="1" class="java.lang.String" itemvalue="Python.单例" />
-        <item index="2" class="java.lang.String" itemvalue="Python.new方法" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in test_case.py" />
-        <item index="4" class="java.lang.String" itemvalue="Python.aa" />
+        <item index="0" class="java.lang.String" itemvalue="Python.给程序传参数" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in start_scm_new_structure.py" />
+        <item index="2" class="java.lang.String" itemvalue="Python.单例" />
+        <item index="3" class="java.lang.String" itemvalue="Python.new方法" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in test_case.py" />
       </list>
     </recent_temporary>
   </component>
@@ -332,9 +314,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 21h 59m 08s.xml">
-      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 22h 00m 02s.xml">
       <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
@@ -362,6 +341,9 @@
     <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 22h 36m 32s.xml">
       <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_start_scm_new_structure_py - 2018.05.14 at 23h 15m 33s.xml">
+      <configuration name="Unittests in start_scm_new_structure.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -373,14 +355,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="245" y="0" width="907" height="735" extended-state="1" />
+    <frame x="445" y="105" width="907" height="462" extended-state="1" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4368482" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4368482" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3010949" sideWeight="0.50597906" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.80474454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5390335" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.53584903" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
@@ -402,9 +384,9 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.80474454" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5393053" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5390335" sideWeight="0.49402094" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31390134" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4368482" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32846716" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -423,13 +405,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scmTest/test_case/public/jumplogin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/aa.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
@@ -586,13 +561,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/interface_test/API测试.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://E:/download_soft/Python_install/Python/Python35/Lib/unittest/case.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="100">
@@ -626,6 +594,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="25">
           <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="e#12#23#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -792,6 +763,24 @@
             <element signature="e#2558#2580#0" expanded="false" />
             <element signature="e#4979#5001#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/interface_test/API测试.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#7#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/练习/给程序传参数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
