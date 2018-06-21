@@ -18,7 +18,7 @@ with open('data.json', 'w') as f:
 
 
 with open('data.json', 'r') as f:
-    data = json.load(f)
+    data = json.loads(f)
 
 print(data)
 
