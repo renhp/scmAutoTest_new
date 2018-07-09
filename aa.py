@@ -1,6 +1,6 @@
 #   dev
 from utils import db_mysql
-
+print("testmdev")
 sql = "SELECT * FROM tb_scm_goods limit 0,10"
 sql = "SELECT goods_code,goods_name,is_delete FROM `tb_scm_goods` where goods_code = '100000005'"
 sql2 = "update tb_scm_goods set is_delete = 1 where goods_code = '100000005'"
